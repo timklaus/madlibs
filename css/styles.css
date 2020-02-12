@@ -1,0 +1,8 @@
+#story {
+  display: none;
+}
+
+.green {
+  background-color: green !important;
+  color: white !important;
+}
